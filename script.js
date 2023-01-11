@@ -1,5 +1,5 @@
 /**
- * @author:konate mamadou
+ * @author:Gbamele Alexandre
  * @Title-projet: Mini Projet #1 - Jeu De Coloriage
  */
 
